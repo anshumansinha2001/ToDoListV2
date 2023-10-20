@@ -57,7 +57,16 @@ app.get("/", function (req, res) {
       });
       res.redirect("/");
     } else {
-      res.render("list", { listTitle: "Today", newListItems: foundItems });
+      const today = new Date();
+      const options = {
+        weekday: "long",
+        day: "numeric",
+        month: "long",
+        year: "numeric"
+      };
+      const day = today.toLocaleDateString("en-US", options);
+      res.render("list", { listTitle: day, newListItems: foundItems });
+      
     }
   });
 
