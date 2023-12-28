@@ -1,18 +1,27 @@
-To-Do List Project (Backend):
-  description: >
-    I'm excited to present the backend for a dynamic To-Do List project, developed using EJS, Node.js, and MongoDB. This robust application enables users to effortlessly create, manage, and remove tasks from their to-do list with a simple checkbox click. It serves as a practical and efficient solution for organizing daily tasks and enhancing overall productivity.
+---
 
-features:
-  - Dynamic To-Do List: Create, manage, and remove tasks seamlessly.
-  - Checkbox Functionality: Easily mark tasks as complete with a checkbox click.
-  - Customized URLs: Tailor your own to-do list by adding a custom title after the URL.
+# To-Do List Project (Backend)
 
-technology_stack:
-  - MongoDB: NoSQL database for efficient and flexible data storage.
-  - Express.js: Web application framework for Node.js, facilitating robust backend development.
-  - Node.js: JavaScript runtime for server-side development.
-  - Embedded JavaScript (EJS): Templating engine for generating dynamic HTML content.
-  - JavaScript: Core programming language for building interactive and dynamic features.
+![Project Banner](link_to_project_banner_image)
+
+## Overview
+
+I'm excited to present the backend for a dynamic To-Do List project, developed using EJS, Node.js, and MongoDB. This robust application enables users to effortlessly create, manage, and remove tasks from their to-do list with a simple checkbox click. It serves as a practical and efficient solution for organizing daily tasks and enhancing overall productivity.
+
+## Features
+
+- **Dynamic To-Do List:** Create, manage, and remove tasks seamlessly.
+- **Checkbox Functionality:** Easily mark tasks as complete with a checkbox click.
+- **Customized URLs:** Tailor your own to-do list by adding a custom title after the URL.
+
+## Technology Stack
+
+- **MongoDB:** NoSQL database for efficient and flexible data storage.
+- **Express.js:** Web application framework for Node.js, facilitating robust backend development.
+- **Node.js:** JavaScript runtime for server-side development.
+- **Embedded JavaScript (EJS):** Templating engine for generating dynamic HTML content.
+- **JavaScript:** Core programming language for building interactive and dynamic features.
+
 
 usage_steps:
   - Clone the repository:
