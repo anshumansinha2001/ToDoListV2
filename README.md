@@ -2,8 +2,6 @@
 
 # To-Do List Project (Backend)
 
-![Project Banner](link_to_project_banner_image)
-
 ## Overview
 
 I'm excited to present the backend for a dynamic To-Do List project, developed using EJS, Node.js, and MongoDB. This robust application enables users to effortlessly create, manage, and remove tasks from their to-do list with a simple checkbox click. It serves as a practical and efficient solution for organizing daily tasks and enhancing overall productivity.
@@ -23,23 +21,41 @@ I'm excited to present the backend for a dynamic To-Do List project, developed u
 - **JavaScript:** Core programming language for building interactive and dynamic features.
 
 
-usage_steps:
-  - Clone the repository:
-      command: git clone https://github.com/theanshumansinha/todo-list-backend.git
-  - Install dependencies:
-      command: |
-        cd todo-list-backend
-        npm install
-  - Configure MongoDB connection in `config.js`.
-  - Run the application:
-      command: npm start
-  - Visit `http://localhost:3000` in your browser to start managing your to-do list.
+## Usage
 
-customized_urls_example: |
-  You can create your own to-do list by adding a title after the URL: https://todolistv2-anshumansinha.onrender.com/Experimental
+1. Clone the repository:
 
-  
-contributions_guidelines: |
+   ```bash
+   git clone https://github.com/your-username/todo-list-backend.git
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   cd todo-list-backend
+   npm install
+   ```
+
+3. Configure MongoDB connection in `config.js`.
+
+4. Run the application:
+
+   ```bash
+   npm start
+   ```
+
+5. Visit `http://localhost:3000` in your browser to start managing your to-do list.
+
+## Customized URLs
+
+You can create your own to-do list by adding a title after the URL:
+
+```
+[http://your-app-url.com/demo](https://todolistv2-anshumansinha.onrender.com/Experimental)
+```
+
+## Contributions
+
 Contributions are welcome! If you'd like to contribute to the project, please follow the guidelines in `CONTRIBUTING.md`.
 
 license: This project is licensed under the [MIT License](LICENSE).
