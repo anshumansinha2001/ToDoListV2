@@ -53,7 +53,7 @@ I'm excited to present the backend for a dynamic To-Do List project, developed u
 You can create your own to-do list by adding a title after the URL:
 
 ```
-[http://todolistv2-anshumansinha.onrender.com/demo]
+http://todolistv2-anshumansinha.onrender.com/demo
 ```
 
 ## Contributions
