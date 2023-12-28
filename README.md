@@ -4,7 +4,7 @@
 
 LIVE DEMO : https://todolistv2-anshumansinha.onrender.com/Experimental
 
-![1.png](link_to_project_banner_image)
+![Project Banner](1.png)
 
 ## Overview
 
