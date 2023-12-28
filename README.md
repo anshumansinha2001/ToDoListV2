@@ -4,6 +4,8 @@
 
 LIVE DEMO : https://todolistv2-anshumansinha.onrender.com/Experimental
 
+![1.png](link_to_project_banner_image)
+
 ## Overview
 
 I'm excited to present the backend for a dynamic To-Do List project, developed using EJS, Node.js, and MongoDB. This robust application enables users to effortlessly create, manage, and remove tasks from their to-do list with a simple checkbox click. It serves as a practical and efficient solution for organizing daily tasks and enhancing overall productivity.
