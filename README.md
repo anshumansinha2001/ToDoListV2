@@ -30,7 +30,7 @@ I'm excited to present the backend for a dynamic To-Do List project, developed u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-list-backend.git
+   git clone https://github.com/theanshumansinha/todo-list-backend.git
    ```
 
 2. Install dependencies:
